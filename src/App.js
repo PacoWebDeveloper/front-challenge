@@ -1,6 +1,4 @@
-import axios from "axios";
-import React, { useState, useEffect } from "react";
-import Moveable from "react-moveable";
+import React, { useState } from "react";
 import Component from "./Component";
 
 const App = () => {
